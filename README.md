@@ -6,8 +6,7 @@
 
 ## 📹 Demo
 
-https://user-images.githubusercontent.com/your-demo-link-here.gif  
-*(Add a screen recording or GIF showing the usage of AirTouch)*
+/*https://user-images.githubusercontent.com/your-demo-link-here.gif*/
 
 ---
 
