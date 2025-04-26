@@ -6,7 +6,7 @@
 
 ## 📹 Demo
 
-/*https://user-images.githubusercontent.com/your-demo-link-here.gif*/
+// https://user-images.githubusercontent.com/your-demo-link-here.gif
 
 ---
 
